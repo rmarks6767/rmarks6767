@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently Co-oping @ConstantContact
+I'm currently Co-oping @ Liberty Mutual
 
 #### In my free time: 
 - 🔭 I’m currently working on the IDEAS project, a medium to collaborate and share ideas that you may never get to
