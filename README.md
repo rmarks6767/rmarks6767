@@ -1,7 +1,7 @@
-### Hi there 👋
-I am a current CS student @ RIT!
+## Hi there 👋
 
-#### In my free time: 
-- 🔭 I’m currently working on the [Minecraft Charity Stream](https://github.com/aidan-brown/Charity-Stream-Web-App)!
-- 💬 Ask me about GraphQL, JS, C#, NodeJS, Java, Spring Boot, C, or React
+I am a Senior Software Engineer @ Liberty Mutual!
 
+### In My Free Time I:
+
+Do things and stuff. I am all over the place right now but am softwarily trying to focus on building a new portfolio site and learn quantum computing!
